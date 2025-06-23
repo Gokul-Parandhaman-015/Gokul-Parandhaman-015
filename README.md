@@ -3,7 +3,7 @@
 <h3 align="center">A passionate cybersecurity and software professional from London. </h3>
 
 <p align="center">
-🎓 MSc Information Security @ Royal Holloway, University of London <br>
+🎓 MSc Information Security - year in industry @ Royal Holloway, University of London <br>
 🛡️ SOC Analyst | Threat Intelligence | Risk & Compliance | SIEM | Security Auditing <br>
 💡 LLM Security | Secure Development | Incident Response | Penetration Teasting  <br>
 📫 Reach me: Gokul.Parandhaman.2024@live.rhul.ac.uk | 
