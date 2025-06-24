@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gokul Parandhaman</h1>
-<h3 align="center">A passionate cybersecurity and software professional from London. </h3>
+<h3 align="center">A passionate cybersecurity and software professional | London, UK. </h3>
 
 <p align="center">
 🎓 MSc Information Security - year in industry @ Royal Holloway, University of London <br>
